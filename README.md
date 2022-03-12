@@ -18,7 +18,8 @@ Click the save icon to save your note in the left column.  Click on the trash ic
 ![NoteTaker Deleting a Note](/public/assets/images/NoteTakerShot2.png "Delete a note")
 
 ## Links
-
+[Deployed on Heroku](https://note-taker-sjr.herokuapp.com/notes)
+[GitHub Repository](https://github.com/samanthajrexroat/NoteTaker.git)
 
 
 ## License
